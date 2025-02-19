@@ -3,6 +3,10 @@
 ## Overview
 This project is an autonomous obstacle-avoiding vehicle developed using an Arduino Uno R3. The vehicle moves using two powered wheels and one free-spinning wheel while detecting obstacles using an ultrasonic sensor. When an obstacle is detected, the vehicle will stop, reverse, and change direction to avoid collisions.
 
+![image](https://github.com/user-attachments/assets/9cc1ff3d-a192-4b95-8975-52a1e6516ca1)
+
+![image](https://github.com/user-attachments/assets/b6eeb6fb-e439-4d17-962b-61aa677bd271)
+
 ## Features
 - **Autonomous movement**
 - **Obstacle detection using an ultrasonic sensor**
@@ -28,6 +32,8 @@ This project is an autonomous obstacle-avoiding vehicle developed using an Ardui
 ### Motor System
 - Two powered wheels controlled by the Arduino for movement.
 - One free-spinning wheel for stability.
+
+![image](https://github.com/user-attachments/assets/8f513177-7d27-465f-829a-8a6e70fa26c4)
 
 ## Source Code
 ### Main Functions
